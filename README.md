@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+dart project easy
+https://cdn-icons-png.flaticon.com/512/4988/4988340.png
